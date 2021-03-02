@@ -1,7 +1,7 @@
 {
-	"name": "owop-server",
+	"name": "loled",
 	"version": "1.0.0",
-	"description": "The OWOP server written in Node",
+	"description": "my 2 server",
 	"main": "src/main.js",
 	"dependencies": {
 		"firebase-admin": "^5.8.1",
