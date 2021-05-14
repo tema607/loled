@@ -10,7 +10,7 @@ const { States, protocol } = require("./protocol");
 
 class World {
 	constructor(worldName, requestUpdate) {
-		console.log("new world");
+		console.log("test");
 		this.name = worldName;
 		this.clients = new Map();
 		this.playerUpdates = new Set();
